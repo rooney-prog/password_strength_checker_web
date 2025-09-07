@@ -1,42 +1,19 @@
-\# Password Strength Checker Web App 🔐
+# 🔐 Password Strength Checker
 
+A simple Flask web application to check the strength of a password.
 
+## 🚀 Live Demo
 
-A simple \*\*Flask-based web application\*\* to check the strength of a password.  
+👉 [Click here to try the app](https://passwordstrengthcheckerweb-production.up.railway.app/)
 
-This project is useful for learning Python, web development, and basic ethical hacking.
+## ⚡ Features
 
+- Checks password length
+- Detects uppercase, lowercase, digits, and special characters
+- User-friendly web interface
 
+## 🛠️ Tech Stack
 
----
-
-
-
-\## ✨ Features
-
-\- User-friendly web interface
-
-\- Checks password length
-
-\- Detects uppercase, lowercase letters, digits, and special characters
-
-\- Categorizes passwords as \*\*Weak\*\*, \*\*Moderate\*\*, or \*\*Strong\*\*
-
-\- Can be integrated into websites or signup forms
-
-
-
----
-
-
-
-\## 🚀 Installation
-
-1\. Clone the repository:
-
-```bash
-
-git clone https://github.com/yourusername/password\_strength\_checker\_web.git
-
-
-
+- Python (Flask)
+- HTML, CSS
+- Deployed on [Railway](https://railway.app)
